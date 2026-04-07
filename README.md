@@ -133,7 +133,6 @@ npm run dev
 
 ## Author
 
-Your Name
-GitHub: https://github.com/RavirajsinhParmar
+Name: https://github.com/RavirajsinhParmar
 
 ---
