@@ -89,7 +89,7 @@ npm install
 Create `.env` file:
 
 ```env
-VITE_API_URL=http://localhost:5000
+VITE_API_URL=http://localhost:5000/api
 ```
 
 Run frontend:
