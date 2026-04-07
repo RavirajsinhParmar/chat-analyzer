@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vite cache
+.vite/
+
+# Optional
+coverage/
